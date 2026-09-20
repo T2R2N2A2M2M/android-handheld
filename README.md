@@ -1,2 +1,11 @@
-# android-handheld
-My personal setup for Android Handheld 🎮.
+# Android Handheld
+
+## Retroid Pocket Nova
+
+TBD
+
+
+
+## AYN Thor
+
+TBD
