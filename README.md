@@ -78,6 +78,7 @@
 - Syncthing-Fork
 - Nova Display Calibration
 - Sleepmanager
+- O2P Tweaks
 
 #### No category
 - MicroG RE
