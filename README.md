@@ -63,6 +63,7 @@
 
 #### Frontend
 - iiSU
+- ES-DE Frontend (EmulationStation Desktop Edition)
 
 #### PC Emulation
 - GameNative
@@ -76,11 +77,12 @@
 - Pixel Guide
 - Syncthing-Fork
 - Nova Display Calibration
+- Sleepmanager
 
 #### No category
 - MicroG RE
 - Obtainium
-
+- PotHelper
 
 ## Set Up
 
